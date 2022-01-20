@@ -1,6 +1,6 @@
 # sift-opencv
 
-A simple example of ![sift](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) with OpenCV.
+A simple example of [sift](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) with OpenCV.
 
 To execute: `python main.py`
 
